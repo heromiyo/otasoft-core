@@ -1,33 +1,33 @@
 [submodule "api-gateway/otasoft-api"]
 	path = api-gateway/otasoft-api
-	url = git@github.com:otasoft/otasoft-api.git
+	url = https://github.com/heromiyo:otasoft/otasoft-api.git
 [submodule "microservices/otasoft-auth"]
 	path = microservices/otasoft-auth
-	url = git@github.com:otasoft/otasoft-auth.git
+	url = https://github.com/heromiyo:otasoft/otasoft-auth.git
 [submodule "microservices/otasoft-mail"]
 	path = microservices/otasoft-mail
-	url = git@github.com:otasoft/otasoft-mail.git
+	url = https://github.com/heromiyo:otasoft/otasoft-mail.git
 [submodule "microservices/otasoft-customer"]
 	path = microservices/otasoft-customer
-	url = git@github.com:otasoft/otasoft-customer.git
+	url = https://github.com/heromiyo:otasoft/otasoft-customer.git
 [submodule "microservices/otasoft-booking"]
 	path = microservices/otasoft-booking
-	url = git@github.com:otasoft/otasoft-booking.git
+	url = https://github.com/heromiyo:otasoft/otasoft-booking.git
 [submodule "microservices/otasoft-catalog"]
 	path = microservices/otasoft-catalog
-	url = git@github.com:otasoft/otasoft-catalog.git
+	url = https://github.com/heromiyo:otasoft/otasoft-catalog.git
 [submodule "frontends/vue-otasoft"]
 	path = frontends/vue-otasoft
-	url = git@github.com:otasoft/vue-otasoft.git
+	url = https://github.com/heromiyo:otasoft/vue-otasoft.git
 [submodule "frontends/react-otasoft"]
 	path = frontends/react-otasoft
-	url = git@github.com:otasoft/react-otasoft.git
+	url = https://github.com/heromiyo:otasoft/react-otasoft.git
 [submodule "ml/otasoft-ml"]
 	path = ml/otasoft-ml
-	url = https://github.com/otasoft/otasoft-ml
+	url = https://github.com/heromiyo/otasoft-ml
 [submodule "microservices/otasoft-payment"]
 	path = microservices/otasoft-payment
-	url = git@github.com:otasoft/otasoft-payment.git
+	url = https://github.com/heromiyo:otasoft/otasoft-payment.git
 [submodule "proxy/otasoft-proxy"]
 	path = proxy/otasoft-proxy
-	url = https://github.com/otasoft/otasoft-proxy
+	url = https://github.com/heromiyo/otasoft-proxy
